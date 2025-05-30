@@ -1,0 +1,31 @@
+{
+  "name": "vue-model-preview",
+  "author": {
+    "name": "YYX",
+    "email": "3271310698@qq.com"
+  },
+  "description": "A Vue 3 application to preview and interact with a machine learning model.",
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "machine-learning",
+    "model-preview",
+    "interactive"
+  ],
+  "homepage": "https://github.com/YX916",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.3.5"
+  }
+}
